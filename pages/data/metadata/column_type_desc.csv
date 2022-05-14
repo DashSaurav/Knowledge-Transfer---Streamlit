@@ -1,0 +1,9 @@
+column_name,type
+Fname,object
+Age,numerical
+Weight,numerical
+Gender,object
+State,object
+Children,numerical
+Pets,numerical
+Property Value,numerical
