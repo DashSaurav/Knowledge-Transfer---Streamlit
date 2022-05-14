@@ -60,7 +60,7 @@ if opt == "Feedback":
         if st.button("Submit feedback"):
             create_table()
             add_feedback(d, question_1, question_2, question_3, question_4)
-            st.success("Feedback submitted")
+            st.success("Feedback submitted Successfully")
 
     if __name__ == '__main__':
         main()
